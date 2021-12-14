@@ -16,5 +16,9 @@ def minion_game(s):
     else:
         print("Empate")
 
+if __name__=='__main__':
+    palabra= input("Elige una palabra: ")
+    minion_game(palabra)
+
         
 
