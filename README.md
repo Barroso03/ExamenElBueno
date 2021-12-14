@@ -32,3 +32,5 @@ if __name__=='__main__':
     palabra= input("Elige una palabra: ")
     minion_game(palabra)
 # FIN
+
+# 2. Torrevertical
