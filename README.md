@@ -4,19 +4,23 @@ Mi dirección de github es la siguiente:[Github](https://github.com/Barroso03/Ex
 Hemos creado dos juegos:
 # 1. The minion game
 Kevin y Stuart quieren jugar al ' The Minion Game '.
-Reglas del juego
+-Reglas del juego:
+
 Ambos jugadores reciben la misma cadena de caracteres
 Ambos jugadores tienen que hacer subcadenas usando las letras de la cadena
 Stuart tiene que formar palabras que comiencen con consonantes .
 Kevin tiene que formar palabras que comiencen con vocales .
 El juego termina cuando ambos jugadores han creado todas las subcadenas posibles.
-Puntuación
+
+-Puntuación
 Un jugador obtiene un +1punto por cada aparición de la subcadena en la cadena.
-Por ejemplo :
+
+-Por ejemplo :
 String= BANANA
 Palabra inicial de la vocal de Kevin = ANA
 Aquí, ANA aparece dos veces en BANANA . Por lo tanto, Kevin obtendrá 2puntos.
-Para una mejor comprensión, vea la imagen a continuación:
+
+-Para una mejor comprensión, vea la imagen a continuación:
 
 ![image](https://user-images.githubusercontent.com/91721590/145983220-ed964380-60d2-4081-baad-cc83db2a18c5.png)
 
